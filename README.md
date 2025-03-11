@@ -49,12 +49,11 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](linkedin.com/in/samah-naji-1716282a6)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=google-chrome)](https://your-portfolio.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samah.naji.1@ulaval.ca)
 
 ---
 
-⭐️ Inspired by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 Feel free to reach out! 🚀
