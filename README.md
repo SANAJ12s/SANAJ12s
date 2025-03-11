@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 ![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student+🚀;Passionate+about+AI+and+Data+💡)
 
 ---
-fun fact: Git clone <awesome repo> \n
-Git push origin main \n
-Git commit -m “I updated comments” \n
+fun fact: Git clone <awesome repo> 
+Git push origin main 
+Git commit -m “I updated comments” 
 
 Look my github account has commits! Being active on github proves nothing. Anything you’re creating for someone shouldn’t be staged in your account, anything you’re building for yourself should be private until it's done and worth attention, and only a few engineers (relative to the population) are actively working on open source projects. Not sure what you think they should be doing with their free time.
 
