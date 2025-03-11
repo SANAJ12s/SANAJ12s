@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ---
 
-
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](linkedin.com/in/samah-naji-1716282a6)
