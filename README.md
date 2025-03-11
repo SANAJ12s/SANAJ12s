@@ -21,29 +21,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ---
 
-## 📈 GitHub Stats
 
-![Samah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamahNaji&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamahNaji&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SamahNaji&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamahNaji&theme=react-dark)
-
----
-
-## 🔥 Featured Projects
-
-### 🚀 [Project Name](https://github.com/SamahNaji/your-project)
-- 🌟 **Tech Used:** Python, Flask, SQL, HTML, CSS
-- 📌 **Description:** A brief description of your project.
-
-### 🌟 [Another Project](https://github.com/SamahNaji/your-other-project)
-- ⚙️ **Tech Used:** C++, Data Structures, Algorithms
-- 📌 **Description:** Another brief description.
-
-*(Add more projects as needed!)*
 
 ---
 
