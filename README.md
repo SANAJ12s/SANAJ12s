@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 ![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student+🚀;Passionate+about+AI+and+Data+💡)
 
 ---
-Git clone <awesome repo> 
 ---
 
 ## 🛠 Tech Stack
