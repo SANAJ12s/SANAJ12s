@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Samah and I'm a Software Engineering Student, from Canada 🍁</h2>
 
 ---
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0NXhjYmJoN2JsOTlrbHQ5dHI0MmJla2lodzdnOXF4cjc4YW53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Coding gif" />
-
+<div align="center">
+<img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0NXhjYmJoN2JsOTlrbHQ5dHI0MmJla2lodzdnOXF4cjc4YW53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Coding gif" />
+</div>
 <div align="center">
   <!-- Langages les plus utilisés -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANAJ12s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
