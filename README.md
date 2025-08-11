@@ -54,20 +54,18 @@
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/samah-naji-1716282a6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:samah.naji.1@ulaval.ca" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discordapp.com/users/sam_a1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+
 </div>
 
 ---
 
-💡 *Ambitious, creative, and always eager to learn — I’m passionate about building impactful software solutions and exploring the world 🌍.*
+💡 *Let's connect and build something amazing together! 🚀*
