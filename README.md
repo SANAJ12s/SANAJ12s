@@ -1,6 +1,8 @@
  ### Hi there, I'm Samah! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANAJ12s&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SANAJ12s"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANAJ12s&layout=compact"/>
 
 Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate about **AI, data, and web development**. I love learning new technologies, solving problems, and working on exciting projects. 🚀
 
