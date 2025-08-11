@@ -12,8 +12,8 @@
 
 ## 🌟 Quick Facts
 
-- 🎯 I'm currently working on 
-- 🌱 My current project is 
+- 🎯 I'm currently working on our association website
+- 🌱 My current project is a Real-Time Polling Platform
 - 💬 Feel free to ask me about anything
 - 📫 Reach me at: [samah.naji.1@ulaval.ca](mailto:samah.naji.1@ulaval.ca)
 - 😄 Known as: **Sam**
