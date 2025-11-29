@@ -7,19 +7,6 @@
 </div>
 
 
-## 🌟 Quick Facts
-
-- 🎯 I'm currently working on our association website
-- 🌱 My current project is a Real-Time Polling Platform
-- 💬 Feel free to ask me about anything
-- 📫 Reach me at: [samah.naji.1@ulaval.ca](mailto:samah.naji.1@ulaval.ca)
-- 😄 Known as: **Sam**
-- ⚡ Words to live by: *"Talk is cheap. Show me the code"*
-
-![Profile views](https://komarev.com/ghpvc/?username=youssefsaber&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## 💻 Tech Stack
 
 ### 🖥 Programmation
