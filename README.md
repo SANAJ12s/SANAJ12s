@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Samah a SWE, from Canada 🍁</h2>
 
----
 ## 💻 Tech Stack
 
 ### 🖥 Programmation
