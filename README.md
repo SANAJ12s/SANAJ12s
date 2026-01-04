@@ -59,42 +59,7 @@
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
 
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANAJ12s&theme=dracula" alt="Profile Details" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SANAJ12s&show_icons=true&theme=dracula&hide_border=false" height="150" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANAJ12s&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
-  
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANAJ12s&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/samah-naji-1716282a6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:samah.naji.1@ulaval.ca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/sam_a1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-
-</div>
 
 ---
 
