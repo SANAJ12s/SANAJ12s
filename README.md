@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samah and I'm a Software Engineering Student, from Canada 🍁</h2>
+<h2 align="left">Hi 👋! My name is Samah a SWE, from Canada 🍁</h2>
 
 ---
 <div align="center">
