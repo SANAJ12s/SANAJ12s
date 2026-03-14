@@ -12,6 +12,7 @@ I'm a Software Engineering student passionate about the intersection of **softwa
 - ⚙️ Strong experience with **C++ and systems programming**
 - 🤖 Experience with **embedded systems and ROS (robotics software)**
 - 🚗 Passionate about **car engines and automotive technology**
+- 🌐 I build **web applications for fun and for clients**, developing projects for myself, family members, and small clients
 
 I’m particularly interested in how **algorithms and software can control, optimize, and make decisions for physical systems**, such as robotics platforms, embedded controllers, and modern automotive technologies.
 
