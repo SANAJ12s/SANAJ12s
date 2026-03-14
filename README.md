@@ -15,7 +15,7 @@ I'm a Software Engineering student passionate about the intersection of **softwa
 
 I’m particularly interested in how **algorithms and software can control, optimize, and make decisions for physical systems**, such as robotics platforms, embedded controllers, and modern automotive technologies.
 
-My goal is to specialize in fields where **software interacts directly with hardware**, including robotics, autonomous systems, and automotive software engineering.
+My goal is to specialize in fields where **software interacts directly with hardware**, especially automotive software engineering.
 
 
 
