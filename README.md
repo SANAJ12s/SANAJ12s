@@ -13,7 +13,9 @@ I'm a Software Engineering student passionate about the intersection of **softwa
 - 🤖 Experience with **embedded systems and ROS (robotics software)**
 - 🚗 Passionate about **car engines and automotive technology**
 
-I’m particularly interested in how **software controls and optimizes physical systems**, such as robotics, embedded controllers, and modern automotive systems. My goal is to specialize in areas where **software meets mechanical and electrical engineering**, like robotics, autonomous systems, or automotive software.
+I’m particularly interested in how **algorithms and software can control, optimize, and make decisions for physical systems**, such as robotics platforms, embedded controllers, and modern automotive technologies.
+
+My goal is to specialize in fields where **software interacts directly with hardware**, including robotics, autonomous systems, and automotive software engineering.
 
 
 
